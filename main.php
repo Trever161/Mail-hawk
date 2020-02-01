@@ -28,8 +28,8 @@ function sendmail()
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = 'true';
             $mail->Port = 465;
-            $mail->Username = 'literly any of your emails';
-            $mail->Password = 'the password to that email'; //dw about any leaks they shouldnt happen
+            $mail->Username = 'trever1171@gmail.com';
+            $mail->Password = 'brandy7919'; //dw about any leaks they shouldnt happen
             $mail->SMTPSecure = 'ssl';
 
             //recipient stuff
